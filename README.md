@@ -8,7 +8,7 @@
 
 ## 📚 Sobre o projeto
 
-Depois de vim estudando sobre API no Frontend, resolvi fazer esse pequeno projeto para consulta de endereço usando a API viaCEP. Após inserir um CEP válido, o usuário consegue obter informações como, logradouro, bairro, cidade e estado.
+Depois de vim estudando sobre API no Frontend, resolvi fazer esse pequeno projeto para consulta de endereço usando a API viaCEP. Após inserir um CEP válido, o usuário consegue obter informações como logradouro, bairro, cidade e estado.
 
 ## 💼 Tecnologias utilizadas
 
