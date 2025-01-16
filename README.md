@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Consultar CEP
+  🌎<br>Consultar CEP
 </h1>
 
 <div align="center">
@@ -12,9 +12,13 @@
 
 Depois de vim estudando sobre API no Frontend, resolvi fazer esse pequeno projeto para consulta de endereço usando a <strong>API viaCEP.</strong> Após inserir um CEP válido, o usuário consegue obter informações como logradouro, bairro, cidade e estado.
 
+## ⚙️ Funcionalidade
+
+☑︎ Exibir dados do CEP digitado ao clicar no botão.
+
 ## 🛠️ Tecnologias utilizadas
 
-- HTML;
-- CSS;
-- JavaScript;
-- Axios;
+- HTML
+- CSS
+- JavaScript
+- Axios
